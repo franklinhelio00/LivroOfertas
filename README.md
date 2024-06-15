@@ -12,4 +12,4 @@ Ex:
 2,0,15.30,50
 3,2,0,0
 
-![alt text](image.png)
+![image](https://github.com/franklinhelio00/LivroOfertas/assets/81192612/98b90b26-a622-4348-9e79-1462f7515a50)
