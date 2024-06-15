@@ -7,6 +7,7 @@ https://www.mycompiler.io/pt/new/csharp
 
 Ao acessar o site, coloque as entradas nessa caixa logo e depois clique em "Execução" pois ele não pede 1 por 1 igual no console.
 Ex:
+
 3
 1,0,20.50,30
 
