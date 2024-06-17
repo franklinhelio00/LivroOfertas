@@ -1,5 +1,3 @@
-Quero ser intelitrader
-
 Sistema de notificações de atualizações de um livro de ofertas Finalizado.
 
 Abaixo esta o site para testar:
